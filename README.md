@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zerosdevz
 - 👀 I’m not a real dev, but a tech enthusiast.
-- 🌱 I’m currently learning introductory computing stuff on EdX.
+- 🌱 I’m currently learning introductory stuff on EdX.
 - 💞️ I’m looking to collaborate on libre projects, mainly w/ translations.
 
 <!---
